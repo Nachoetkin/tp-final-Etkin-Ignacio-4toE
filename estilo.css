@@ -1,0 +1,19 @@
+body {
+    background-color: #F5E6E9;
+    color: #51434B;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+header {
+    background-color: #D5A6B5;
+    color: white;
+    text-align: center;
+    padding: 25px;
+}
+
+.logo {
+    width: 250px;
+    height: auto;
+    margin: 10px;
+}

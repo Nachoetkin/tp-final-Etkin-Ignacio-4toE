@@ -12,8 +12,26 @@ header {
     padding: 25px;
 }
 
+header h1 {
+    font-size: 35px;
+}
+
 .logo {
     width: 250px;
     height: auto;
     margin: 10px;
 }
+
+nav {
+    background-color: #91677F;
+    text-align: center;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+    font-weight: bold;
+}
+

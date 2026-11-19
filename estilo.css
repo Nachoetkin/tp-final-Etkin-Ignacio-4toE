@@ -70,3 +70,17 @@ h3 {
     font-weight: bold;
 }
 
+article {
+    background-color: #F8EEF0;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+article img {
+    width: 70%;
+    height: 300px;
+    object-fit: cover; /*esto lo busque en google, prometo no haber usado ia*/
+    border-radius: 10px;
+}

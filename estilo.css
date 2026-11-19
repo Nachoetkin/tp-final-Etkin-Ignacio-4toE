@@ -54,3 +54,18 @@ h2 {
 h3 {
     color: #91677F;
 }
+
+.tarjeta {
+    background-color: #fff0f5;
+    border: 2px solid #e7a1bd;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.tarjeta p {
+    color: #8e5577;
+    font-size: 25px;
+    font-weight: bold;
+}

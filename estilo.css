@@ -84,3 +84,16 @@ article img {
     object-fit: cover; /*esto lo busque en google, prometo no haber usado ia*/
     border-radius: 10px;
 }
+
+li {
+    margin: 10px;
+}
+
+
+
+footer {
+    background-color: #6F536B;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}

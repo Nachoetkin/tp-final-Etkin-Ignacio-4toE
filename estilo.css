@@ -69,3 +69,13 @@ h3 {
     font-size: 25px;
     font-weight: bold;
 }
+
+.boton {
+    background-color: #91677F;
+    color: white;
+    text-decoration: none;
+    padding: 12px 25px;
+    border-radius: 8px;
+    margin-top: 15px;
+    font-weight: bold;
+}

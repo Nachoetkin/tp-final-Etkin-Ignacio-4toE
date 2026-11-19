@@ -35,3 +35,22 @@ nav a {
     font-weight: bold;
 }
 
+main {
+    margin: 20px;
+}
+
+section {
+    background-color: #FFF9F7;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h2 {
+    color: #B98299;
+    text-align: center;
+}
+
+h3 {
+    color: #91677F;
+}
